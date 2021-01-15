@@ -1,6 +1,6 @@
 # zenvia-voice
 
-Este repositório contem a aplicação criada no artigo tutorial da [Prensa.li](https://https://prensa.li/) sobre como [consumir a API de voz TotalVoice da Zenvia](https://prensa.li/zenvia/zenvia-voice-api/).
+Este repositório contem a aplicação criada no artigo tutorial da [Prensa.li](http://prensa.li/) sobre como [consumir a API de voz TotalVoice da Zenvia](https://prensa.li/zenvia/zenvia-voice-api/).
 
 ## Como executar
 
