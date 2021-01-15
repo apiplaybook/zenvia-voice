@@ -1,6 +1,6 @@
 import { Response } from 'express'
-import api from '../config/api'
 import { config } from 'dotenv'
+import api from '../config/api'
 
 // Inicializa o dotenv para podermos acessar informações do arquivo .env
 config()
